@@ -8,7 +8,7 @@ This project implements a bicep curl counter using Python. It likely leverages c
 
 - **Exercise Detection**: Detects bicep curl motions in real-time.
 - **Repetition Counter**: Automatically counts the number of curls performed.
-- **User Feedback**: Provides feedback for proper form (if implemented).
+
 
 ## Prerequisites
 

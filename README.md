@@ -18,8 +18,8 @@ To run this project, ensure you have the following installed:
 - Jupyter Notebook
 - OpenCV (`opencv-python`)
 - NumPy
-- Any other libraries specified in the notebook
+- Mediapipe
 
 Install the required Python packages using:
 ```bash
-pip install opencv-python numpy
+pip install opencv-python numpy mediapipe

@@ -31,15 +31,11 @@ pip install opencv-python mediapipe numpy
    ```bash
    git clone https://github.com/rahul-1809/bicep_curl_counter/
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd bicep-curl-counter
-   ```
-3. Open the Jupyter Notebook:
+2. Open the Jupyter Notebook:
    ```bash
    jupyter notebook bicep_curl_counter.ipynb
    ```
-4. Run the cells sequentially to execute the program.
+3. Run the cells sequentially to execute the program.
 
 ## How It Works
 1. The program captures the live video feed using OpenCV.
